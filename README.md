@@ -1,5 +1,5 @@
 - 👋 Hola, soy @luciano-cenatiempo. Full Stack developer Jr.
-Usualmente trabajo con con JavaScript, pero tambien tengo algo de experiencia con PHP.
+Usualmente trabajo con JavaScript, pero tambien tengo algo de experiencia con PHP.
 Autodidacta, y con muchas ganas de hacer mi aporte a esta gran comunidad!
 
 
